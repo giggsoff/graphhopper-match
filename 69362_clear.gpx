@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Graphhopper version 0.8.2" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
+<metadata><copyright author="OpenStreetMap contributors"/><link href="http://graphhopper.com"><text>GraphHopper GPX</text></link><time>2017-03-20T11:23:53Z</time></metadata>
+<trk><name>GraphHopper Track</name><trkseg>
+<trkpt lat="59.934429" lon="30.27852"><time>2017-03-20T11:23:53Z</time></trkpt>
+<trkpt lat="59.934274" lon="30.278078"><time>2017-03-20T11:23:55Z</time></trkpt>
+<trkpt lat="59.933467" lon="30.276285"><time>2017-03-20T11:24:06Z</time></trkpt>
+<trkpt lat="59.932499" lon="30.274273"><time>2017-03-20T11:24:18Z</time></trkpt>
+<trkpt lat="59.932345" lon="30.273984"><time>2017-03-20T11:24:20Z</time></trkpt>
+<trkpt lat="59.931241" lon="30.272089"><time>2017-03-20T11:24:33Z</time></trkpt>
+<trkpt lat="59.929985" lon="30.270437"><time>2017-03-20T11:24:46Z</time></trkpt>
+<trkpt lat="59.929781" lon="30.270274"><time>2017-03-20T11:24:48Z</time></trkpt>
+<trkpt lat="59.929268" lon="30.270081"><time>2017-03-20T11:24:53Z</time></trkpt>
+<trkpt lat="59.929102" lon="30.269849"><time>2017-03-20T11:24:55Z</time></trkpt>
+<trkpt lat="59.928905" lon="30.269509"><time>2017-03-20T11:24:57Z</time></trkpt>
+<trkpt lat="59.92877" lon="30.269115"><time>2017-03-20T11:24:59Z</time></trkpt>
+<trkpt lat="59.928632" lon="30.26855"><time>2017-03-20T11:25:02Z</time></trkpt>
+<trkpt lat="59.928639" lon="30.268457"><time>2017-03-20T11:25:02Z</time></trkpt>
+<trkpt lat="59.928669" lon="30.268345"><time>2017-03-20T11:25:03Z</time></trkpt>
+<trkpt lat="59.92872" lon="30.268279"><time>2017-03-20T11:25:04Z</time></trkpt>
+<trkpt lat="59.932989" lon="30.263324"><time>2017-03-20T11:25:48Z</time></trkpt>
+<trkpt lat="59.937068" lon="30.258485"><time>2017-03-20T11:26:30Z</time></trkpt>
+<trkpt lat="59.937244" lon="30.258274"><time>2017-03-20T11:26:32Z</time></trkpt>
+<trkpt lat="59.936613" lon="30.256128"><time>2017-03-20T11:26:43Z</time></trkpt>
+<trkpt lat="59.936535" lon="30.255861"><time>2017-03-20T11:26:44Z</time></trkpt>
+<trkpt lat="59.935096" lon="30.257466"><time>2017-03-20T11:26:59Z</time></trkpt>
+<trkpt lat="59.932628" lon="30.260325"><time>2017-03-20T11:27:24Z</time></trkpt>
+<trkpt lat="59.932537" lon="30.260432"><time>2017-03-20T11:27:25Z</time></trkpt>
+<trkpt lat="59.929526" lon="30.250184"><time>2017-03-20T11:28:18Z</time></trkpt>
+<trkpt lat="59.929461" lon="30.250007"><time>2017-03-20T11:28:19Z</time></trkpt>
+<trkpt lat="59.928589" lon="30.247012"><time>2017-03-20T11:28:34Z</time></trkpt>
+<trkpt lat="59.927388" lon="30.242778"><time>2017-03-20T11:28:56Z</time></trkpt>
+<trkpt lat="59.927324" lon="30.242541"><time>2017-03-20T11:28:57Z</time></trkpt>
+<trkpt lat="59.931677" lon="30.240303"><time>2017-03-20T11:29:37Z</time></trkpt>
+<trkpt lat="59.931731" lon="30.240275"><time>2017-03-20T11:29:38Z</time></trkpt>
+<trkpt lat="59.931519" lon="30.23881"><time>2017-03-20T11:29:45Z</time></trkpt>
+<trkpt lat="59.931508" lon="30.238729"><time>2017-03-20T11:29:45Z</time></trkpt>
+<trkpt lat="59.931588" lon="30.23869"><time>2017-03-20T11:29:46Z</time></trkpt>
+<trkpt lat="59.932132" lon="30.238367"><time>2017-03-20T11:29:51Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
