@@ -1,0 +1,16 @@
+target/
+track-data/
+*~
+test-input.gpx
+test.gpx
+graph-cache/
+nbactions.xml
+*pbf
+.idea/
+*iml
+.settings/
+.classpath
+.project
+matching-vaadin/src/main/webapp/
+matching-core/build.xml
+/matching-core/nbproject/
